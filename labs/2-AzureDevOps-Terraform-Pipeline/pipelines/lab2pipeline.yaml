@@ -11,7 +11,7 @@ variables:
   - name: backendAzureRmResourceGroupName
     value: 'devops-journey-rg'
   - name: backendAzureRmStorageAccountName
-    value: 'devopsjourneyazuredevops'
+    value: 'devopsazuredevops'
   - name: backendAzureRmContainerName
     value: 'tfstate'
   - name: backendAzureRmKey
